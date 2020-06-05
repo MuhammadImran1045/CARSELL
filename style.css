@@ -1,0 +1,36 @@
+#main0
+{
+
+    position: relative;
+    left: 330px;
+}
+#main1
+{
+border-radius: 10px;
+}
+#main2
+{
+    border-radius: 100px;
+    padding: 15px 25px 15px 15px;
+    position: relative;
+    bottom:  100px;
+}
+#main3
+{
+    font-size: 100px;   
+    position: relative;
+    bottom:  200px;
+}
+#main4
+{
+    color: white;
+    background-color: black;
+
+    font-size: 23px;
+}
+.btn
+{
+
+    font-weight: bold !important;
+
+}
